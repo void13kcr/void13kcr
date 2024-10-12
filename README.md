@@ -1,7 +1,9 @@
-## Hi there 👋
+## ⚙️ Skills & Tools
+
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,react,nextjs,threejs,vercel,sass,tailwind,figma&perline=6" />
 
 <!--
-**void13kcr/void13kcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**void-royals/void-royals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
